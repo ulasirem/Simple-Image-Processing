@@ -1,0 +1,10 @@
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\bin\Debug\GriSeviyeliGoruntuler.exe.config
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\bin\Debug\GriSeviyeliGoruntuler.exe
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\bin\Debug\GriSeviyeliGoruntuler.pdb
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\GriSeviyeliGoruntuler.csprojAssemblyReference.cache
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\GriSeviyeliGoruntuler.Form1.resources
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\GriSeviyeliGoruntuler.Properties.Resources.resources
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\GriSeviyeliGoruntuler.csproj.GenerateResource.cache
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\GriSeviyeliGoruntuler.csproj.CoreCompileInputs.cache
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\GriSeviyeliGoruntuler.exe
+C:\Users\FİU\Desktop\Görüntü İşleme\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\GriSeviyeliGoruntuler.pdb

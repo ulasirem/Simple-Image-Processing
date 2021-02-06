@@ -1,0 +1,10 @@
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\bin\Debug\BinaryGoruntuler.exe.config
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\bin\Debug\BinaryGoruntuler.exe
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\bin\Debug\BinaryGoruntuler.pdb
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\obj\Debug\BinaryGoruntuler.csprojAssemblyReference.cache
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\obj\Debug\BinaryGoruntuler.Form1.resources
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\obj\Debug\BinaryGoruntuler.Properties.Resources.resources
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\obj\Debug\BinaryGoruntuler.csproj.GenerateResource.cache
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\obj\Debug\BinaryGoruntuler.csproj.CoreCompileInputs.cache
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\obj\Debug\BinaryGoruntuler.exe
+C:\Users\FİU\Desktop\Görüntü İşleme\BinaryGoruntuler\BinaryGoruntuler\obj\Debug\BinaryGoruntuler.pdb
